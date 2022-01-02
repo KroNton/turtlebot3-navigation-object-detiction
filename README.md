@@ -16,7 +16,7 @@ git clone https://github.com/KroNton/turtlebot3-navigation-object-detiction.git
 ---------------------------------------------------------------------------------------------------------------------
 
 
-Navigation and object detection 
+#Navigation and object detection 
 
 inside catkin_ws/
 
